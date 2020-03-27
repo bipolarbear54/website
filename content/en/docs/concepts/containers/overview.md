@@ -9,7 +9,7 @@ weight: 1
 
 {{% capture overview %}}
 
-Containers are a technnology for packaging the (compiled) code for an
+Containers are a technology for packaging the (compiled) code for an
 application along with the dependencies it needs at run time. Each
 container that you run is repeatable; the standardisation from having
 dependencies included means that you get the same behavior wherever you
